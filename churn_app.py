@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import tensorflow as tf
-import streamlit as st
 st.title("Customer Churn Prediction")
 CS= st.number_input("Credit Score")
 Age= st.number_input("Age")
