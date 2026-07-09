@@ -1,4 +1,6 @@
+streamlit
+tensorflow==2.16.1
 pandas
 numpy
-streamlit
-tensorflow
+scikit-learn
+pickle-mixin
